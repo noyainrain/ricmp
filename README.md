@@ -1,4 +1,4 @@
-# ricmp
+# rICMP
 
 Remote ICMP assembly at rc3.world.
 
@@ -9,4 +9,4 @@ Remote ICMP assembly at rc3.world.
 ## Play ricmp
 
 Serve the repository over HTTPS with CORS enabled at a public host. Then open
-https://play.wa-test.rc3.cccv.de/_/global/{host}/main.json .
+https://test.visit.at.wa-test.rc3.cccv.de/_/global/{host}/main.json .
