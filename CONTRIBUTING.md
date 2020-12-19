@@ -1,8 +1,9 @@
-# Contribute to ricmp
+# Contribute to rICMP
 
 ## Requirements
 
 * [Tiled](https://www.mapeditor.org/)
+* [Krita](https://krita.org/)
 
 ## Introduction
 
