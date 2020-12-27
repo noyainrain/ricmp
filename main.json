@@ -43,7 +43,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/signup.c3assemblies.de\/assembly\/a1781f9b-a35a-4c9c-ac25-fe5d0c35ef53"
+                 "value":"https:\/\/noyainrain.github.io\/ricmp\/pages\/ricmp.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -61,7 +61,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/noyainrain\/listling"
+                 "value":"https:\/\/noyainrain.github.io\/ricmp\/pages\/listling.html"
                 }],
          "type":"tilelayer",
          "visible":true,

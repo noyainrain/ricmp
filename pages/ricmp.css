@@ -31,10 +31,15 @@ ul {
 
 a {
     color: inherit;
-    text-decoration: none;
 }
 
 a:focus,
 a:hover {
-    text-decoration: underline;
+    color: black;
+    background: #24c865;
+}
+
+.ricmp-open {
+    font-size: 2rem;
+    text-align: center;
 }
