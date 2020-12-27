@@ -163,7 +163,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-south.json#start_icmp}"
+                 "value":"{<lobby>\/maps\/erfas-south.json#start_icmp}"
                 }],
          "type":"tilelayer",
          "visible":true,
