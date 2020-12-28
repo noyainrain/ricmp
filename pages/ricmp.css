@@ -9,7 +9,8 @@ body {
 }
 
 h1,
-ul {
+ul,
+blockquote {
     padding: 0.5rem;
     margin: 0;
 }
@@ -29,6 +30,14 @@ ul {
     list-style: square;
 }
 
+blockquote::before {
+    content: open-quote;
+}
+
+blockquote::after {
+    content: close-quote;
+}
+
 a {
     color: inherit;
 }
@@ -37,6 +46,11 @@ a:focus,
 a:hover {
     color: black;
     background: #24c865;
+}
+
+img.ricmp-block {
+    display: block;
+    width: 100%;
 }
 
 .ricmp-open {
