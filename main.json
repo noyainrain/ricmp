@@ -80,6 +80,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"3XBNriDSDEMU6P1bNVpnpnb6MfQXpxacwbV7sFDXuJHSRc2OqJ"
+                }, 
+                {
                  "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/noyainrain.github.io\/fleet\/"
