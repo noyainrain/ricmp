@@ -80,24 +80,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/noyainrain.github.io\/fleet\/"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
-                }, 
-                {
-                 "name":"openWebsiteWidth",
-                 "type":"int",
-                 "value":90
                 }],
          "type":"tilelayer",
          "visible":true,
